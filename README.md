@@ -37,6 +37,6 @@ This project was developed as part of the SWAYAM Fest 2025 initiative at MVJ Col
 ## Screenshots
 
 ```markdown
-![Robot Prototype](images/Screenshot%202025-07-03%20153849.png)
+![Robot Prototype](https://github.com/chith-123/Human-Finder-BT/commit/731f5e423e620beaf01796f472cb2d8b1bb644cc)
 ![App Interface](images/Screenshot%202025-07-03%20153838.png)
 
