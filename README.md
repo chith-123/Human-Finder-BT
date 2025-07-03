@@ -1,8 +1,5 @@
 # Human-Finder-BT
 Natural disasters make rescue missions risky and time-sensitive. We built Human Finder-BT, a Bluetooth-controlled robot using Arduino, thermal sensors, and Firebase to detect human presence, send real-time alerts, and navigate debris — making rescue safer and smarter.
-# Human Finder-BT
-
-A Bluetooth-controlled robotic system built for disaster response and human detection. Designed to navigate debris, detect human presence using thermal sensors, and send real-time updates via Firebase — all controlled through a smartphone.
 
 ---
 
@@ -40,6 +37,6 @@ This project was developed as part of the SWAYAM Fest 2025 initiative at MVJ Col
 ## Screenshots
 
 ```markdown
-![Robot Prototype](images/human-finder-prototype.jpg)
-![App Interface](images/app-controller.png)
+![Robot Prototype](images/Screenshot%202025-07-03%20153849.png)
+![App Interface](images/Screenshot%202025-07-03%20153838.png)
 
